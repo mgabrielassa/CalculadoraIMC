@@ -22,7 +22,7 @@ Calculadora de IMC foi meu primeiro contato com desenvolvimento mobile e linguag
 - FindViewById para recuperar components de UI
 - String resource para concatenação de textos
 
-### TO DO
+## TO DO
 - Melhorar estilização do app
 
 ## Author
